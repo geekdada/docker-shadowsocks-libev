@@ -71,5 +71,3 @@ RUN apk upgrade \
         v2ray_plugin.tar.gz \
         /etc/service \
         /var/cache/apk/*
-
-SHELL ["/bin/bash"]
